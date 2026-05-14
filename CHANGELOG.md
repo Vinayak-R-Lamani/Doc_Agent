@@ -18,3 +18,8 @@
 
 - changed : app/main.py
 - changed : scripts/auto_doc.py
+#
+## Update: 2026-05-14 09:16:32
+
+- changed : CHANGELOG.md
+- changed : scripts/auto_doc.py

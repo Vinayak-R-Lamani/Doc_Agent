@@ -12,7 +12,7 @@ log = f"#\n## Update: {now}\n\n"
 for file in files:
     log += f"- changed : {file}\n" 
 
-with open("changelog.md", "a") as f:
+with open("docs/changelog.md", "a") as f:
     f.write(log) 
     
 print("CHANGELOG.md updated successfully!")
